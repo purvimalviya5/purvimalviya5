@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purvimalviya5
-- 👀 I’m interested in Singing,Writing,Coding.
+- 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Python,Java,AI/ML,Cybersecurity.
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me..
